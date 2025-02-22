@@ -7,7 +7,7 @@ An interactive treemap visualization built with **D3.js**, showcasing hierarchic
 ✅ Fully responsive design  
 
 ## 🔹 Live Demo  
-[🔗 Click here to view the live demo](#) *(Add link if deployed!)*  
+[🔗 Click here to view the live demo](https://chauxvive.github.io/FCCTreeMap/)  
 
 ## 🔹 Tech Stack  
 - D3.js  
